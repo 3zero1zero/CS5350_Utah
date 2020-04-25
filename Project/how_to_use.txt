@@ -1,0 +1,6 @@
+Secret algorithm part: don't plagiarize the file in it:
+1. Open the "testing" file and the "training" file, find the algorithm files called "testing_data_transfer.py" and "training_data_transfer.py".
+2. Run both  "testing_data_transfer.py" and "training_data_transfer.py". You will get "secret_data.csv" files. (The GitHub version has already had those files. You can still run  "testing_data_transfer.py" and "training_data_transfer.py" to update the secret_data.csv files).
+
+Normal part:
+3. Open run.py file and run it. You will see the test result.
